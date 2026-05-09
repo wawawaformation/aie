@@ -1,4 +1,4 @@
-# AIE Artificial Intelligence Expériments
+# AIE Artificial Intelligence Expérimentations
 
 Dépot regroupant les différents projets IA.
 
